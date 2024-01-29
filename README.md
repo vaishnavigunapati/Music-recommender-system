@@ -19,3 +19,16 @@ The aim of this project is to:
 
 2. Build a collaborative filtering music recommeder system using the Million Song Dataset; a freely-available collection of audio features and metadata for a million contemporary popular music tracks.
 
+##
+This repo is divided into the following two packages that contains the following files:
+
+## I. Content-based recommendation system:
+
+a. A jupyter notebook named content_based_music_recommender that contains the code and analysis for the recommedation system.
+b. A CSV file named songdata containing the data for the songs used in the system.
+
+## II. Collaborative recommendation system:
+
+a. A jupyter notebook named collaborative_music_recommender that contains the code and analysis for the recommedation system.
+b. A CSV file named songs containing the data for the songs used in the system.
+
