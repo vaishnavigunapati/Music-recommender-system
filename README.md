@@ -12,6 +12,7 @@ There are two main types of recommender systems:
 
 Among collaborative-based systems, we can encounter two types: **user-item**filtering and **item-item** filtering.
 
+##
 The aim of this project is to:
 
 1. Generate a content-based music recommender system using a dataset of name, artist, and lyrics for 57650 songs in English obtained from Kaggle. The data has been acquired from LyricsFreak through scraping by the author.
