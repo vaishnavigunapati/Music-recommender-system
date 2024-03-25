@@ -70,8 +70,7 @@ Matrix factorization is a mathematical technique commonly used in machine learni
 
 In the context of recommendation systems, matrix factorization is frequently employed to model user-item interactions. The user-item matrix, where rows represent users, columns represent items, and the entries denote interactions or ratings, can be factorized into two matrices—one representing users and the other items. The multiplication of these matrices reconstructs the original matrix, capturing the underlying patterns in user preferences and item characteristics.
 
-Matrix factorization has proven effective in dealing with sparse datasets, where not all users have interacted with all items. By capturing latent factors, it can predict missing values in the matrix, suggesting personalized recommendations for users. Singular Value Decomposition (SVD) is a classical matrix factorization method, and variations like Alternating Least Squares (ALS) and stochastic gradient descent are commonly used in collaborative filtering applications. Matrix factorization finds applications beyond recommendation systems, including image processing, signal processing, and dimensionality reduction in data analysis.
-
+Matrix factorization has proven effective in dealing with sparse datasets, where not all users have interacted with all items. By capturing latent factors, it can predict missing values in the matrix, suggesting personalized recommendations for users. Singular Value Decomposition (SVD) is a classical matrix factorization method, and variations like Alternating Least Squares (ALS) and stochastic gradient descent are commonly used in collaborative filtering applications. Matrix factorization finds applications beyond recommendation systems, including image processing, signal processing, and dimensionality reduction in data analysis
 
 
 
